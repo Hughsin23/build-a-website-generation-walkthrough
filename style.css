@@ -13,3 +13,7 @@ body {
 h1 {
   font-family: var(--playpen-font)
 }
+
+button {
+  font-family: fantasy;
+}

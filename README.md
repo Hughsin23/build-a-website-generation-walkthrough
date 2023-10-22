@@ -4,5 +4,5 @@
 
 ~~this lets us have all sorts of easy to type styles~~
 
-**like these** using two asterisks or underscores or _these_ using only one. You can also**_combine the two_**
+**Like these ones in bold** using two asterisks or underscores or _these ones in italics_ using only one. You can also **_combine the two_**
 
