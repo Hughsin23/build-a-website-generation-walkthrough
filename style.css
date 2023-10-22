@@ -1,7 +1,13 @@
+/* GLOBAL IMPORTS AND VARIABLES */
 @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap');
 
 :root {
   --playpen-font: 'Playpen Sans', cursive;
+}
+
+/* GLOBAL STYLES */
+body {
+  font-family: monospace;
 }
 
 h1 {
